@@ -1,80 +1,79 @@
 module.exports = {
         labrador_retriever: {
-            traits:['openness', ],
-            names:['lab', 'yellow lab', 'black lab']
+            traits:['openness', 'extraversion', 'conscientiousness', 'agreeableness', 'emotional range'],
+            names:['lab', 'yellow lab', 'black lab', 'chocolate lab', 'labrador', 'labrador retriever']
         },
         german_shepherd: {
-            traits:['conservation'],
+            traits:['openness', 'extraversion', 'conscientiousness', 'agreeableness', 'emotional range'],
             names:['german shepherd', 'german shep']
         },
         golden_retriever: {
-            traits:['openness', ],
-            names:['lab', 'yellow lab', 'black lab']
+            traits:['openness', 'extraversion', 'conscientiousness', 'agreeableness', 'emotional range'],
+            names:['golden', 'golden retriever', 'red retriever']
         },
-        bullgod: {
-            traits:['openness', ],
-            names:['lab', 'yellow lab', 'black lab']
+        bulldog: {
+            traits:['extraversion', 'conscientiousness', 'agreeableness', 'emotional range'],
+            names:['bulldog', 'american bulldog']
         },
         beagle: {
-            traits:['openness', ],
-            names:['lab', 'yellow lab', 'black lab']
+            traits:['openness', 'extraversion', 'agreeableness', 'emotional range'],
+            names:['beagle']
         },
         french_bulldog: {
-            traits:['openness', ],
-            names:['lab', 'yellow lab', 'black lab']
+            traits:['openness', 'extraversion', 'conscientiousness', 'emotional range'],
+            names:['french bulldog']
         },
         yorkshire_terrier: {
-            traits:['openness', ],
-            names:['lab', 'yellow lab', 'black lab']
+            traits:['conscientiousness', 'agreeableness', 'emotional range'],
+            names:['terrier', 'yorkshire terrier']
         },
         poodle: {
-            traits:['openness', ],
-            names:['lab', 'yellow lab', 'black lab']
+            traits:['openness', 'conscientiousness', 'agreeableness', 'emotional range'],
+            names:['poodle']
         },
         rottweiler: {
-            traits:['openness', ],
-            names:['lab', 'yellow lab', 'black lab']
+            traits:['extraversion', 'conscientiousness', 'agreeableness', 'emotional range'],
+            names:['rottweiler']
         },
         boxer: {
-            traits:['openness', ],
-            names:['lab', 'yellow lab', 'black lab']
+            traits:['openness', 'emotional range'],
+            names:['boxer']
         },
         german_shorthaired_pointer: {
-            traits:['openness', ],
-            names:['lab', 'yellow lab', 'black lab']
+            traits:['openness', 'extraversion', 'conscientiousness', 'agreeableness', 'emotional range'],
+            names:['german pointer', 'pointer', 'german shorthaired pointer']
         },
         siberian_husky: {
-            traits:['openness', ],
-            names:['lab', 'yellow lab', 'black lab']
+            traits:['openness', 'extraversion', 'conscientiousness'],
+            names:['husky', 'siberian husky']
         },
         dachshund: {
-            traits:['openness', ],
-            names:['lab', 'yellow lab', 'black lab']
+            traits:['openness', 'extraversion', 'conscientiousness', 'agreeableness'],
+            names:['dachshund']
         },
         doberman_pinscher: {
-            traits:['openness', ],
-            names:['lab', 'yellow lab', 'black lab']
+            traits:['openness', 'extraversion', 'conscientiousness', 'agreeableness', 'emotional range'],
+            names:['doberman pinscher', 'doberman', 'pinscher']
         },
         great_dane: {
-            traits:['openness', ],
-            names:['lab', 'yellow lab', 'black lab']
+            traits:['openness', 'extraversion', 'conscientiousness', 'agreeableness', 'emotional range'],
+            names:['great dane']
         },
         miniature_schnauzer: {
-            traits:['openness', ],
-            names:['lab', 'yellow lab', 'black lab']
+            traits:['conscientiousness', 'agreeableness', 'emotional range'],
+            names:['mini schnauzer', 'miniature schnauzer']
         },
         australian_shepherd: {
-            traits:['openness', ],
-            names:['lab', 'yellow lab', 'black lab']
+            traits:['openness', 'extraversion', 'conscientiousness', 'agreeableness', 'emotional range'],
+            names:['australian shepherd', 'aussie shepherd']
         },
         cavalier_king_charles_spaniel: {
-            traits:['openness', ],
-            names:['lab', 'yellow lab', 'black lab']
+            traits:['emotional range'],
+            names:['cavalier kind charled spaniel', 'spaniel', 'cocker spaniel']
         },
         shihtzu: {
-            traits:['openness', ],
-            names:['lab', 'yellow lab', 'black lab']
+            traits:['emotional range'],
+            names:['shihtzu']
         }
 };
 
- 
